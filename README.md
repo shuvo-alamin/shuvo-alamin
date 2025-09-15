@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @shuvo-alamin
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-shuvo-alamin/shuvo-alamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @shuvo-alamin  
+- 👀 I’m a Frontend Developer passionate about building responsive, high-performance web applications.  
+- 🌱 Currently deepening my expertise in React.js, Next.js, GSAP, and Framer Motion.  
+- 💡 Skilled in creating interactive animations, debugging performance issues, and delivering seamless user experiences.  
+- 💞️ I’m looking to collaborate on modern web projects, animations, and scalable frontend solutions.  
+- 📫 Reach me at: svo.almin@gmail.com | [LinkedIn](https://www.linkedin.com/in/alamin-talukder-shuvo-58561315a/)  
